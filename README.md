@@ -8,7 +8,10 @@
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats-eight-pearl-80.vercel.app
 /api?username=noshinc346&theme=radical&show_icons=true" />
- <!-- <img width=40% align="center" src="https://github-readme-stats-eight-pearl-80.vercel.app/api/top-langs/?username=noshinc346&layout=compact&theme=radical" /> -->
+
+<br>
+
+ <img width=40% align="center" src="https://github-readme-stats-eight-pearl-80.vercel.app/api/top-langs/?username=noshinc346&layout=compact&theme=radical" />
 </div>
 
 
