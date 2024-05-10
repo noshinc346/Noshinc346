@@ -81,6 +81,14 @@ Skills: `HTML5` `CSS3` `Flexbox` `GRID` `Bootstrap` `JavaScript` `React` `Git` `
 Skills: `Agile Methodologies` `Selenium` `Cucumber` `Postman` `Appium` `Sauce Labs` `Selenium Grid` `Maven` `Gradle` `Jira` `Jenkins` `Git` 
 
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/uJKcKHO.jpeg"/>](https://www.stjohns.edu/)
+**Undergraduate B.S** \
+[**St. John's University**](https://www.stjohns.edu/)  • Completed May '21
+Awards: `Magna Cum Laude` `Dean's List 2019-2021` `Phi Ets Sugma National Honors Society`
+
+
+
+
 
 <br>
 
