@@ -83,7 +83,7 @@ Skills: `Agile Methodologies` `Selenium` `Cucumber` `Postman` `Appium` `Sauce La
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/uJKcKHO.jpeg"/>](https://www.stjohns.edu/)
 **Undergraduate B.S** \
-[**St. John's University**](https://www.stjohns.edu/)  • Completed May '21
+[**St. John's University**](https://www.stjohns.edu/)  • Completed May '21 \
 Awards: `Magna Cum Laude` `Dean's List 2019-2021` `Phi Ets Sugma National Honors Society`
 
 
