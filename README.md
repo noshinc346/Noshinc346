@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Noshin+Chowdhury;I+Am+A+Software+Engineer)](https://git.io/typing-svg)
 
-<h3 align="center">"Blah Blah Blah"</h3>
-<h4 align="center">- more blah blah -</h4>
-
 <br>
 
 <div align="center" style="margin-bottom:200px">
