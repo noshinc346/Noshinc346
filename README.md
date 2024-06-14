@@ -2,9 +2,6 @@
 
 <br>
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats-eight-pearl-80.vercel.app
-/api?username=noshinc346&theme=radical&show_icons=true" />
 
 <br>
 
